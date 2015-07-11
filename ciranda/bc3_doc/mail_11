@@ -1,0 +1,83 @@
+Don't know how long this meeting is going to take but with a joint meeting &quot;long&quot; seems more likely than &quot;short&quot;. 
+So just in case: 
+I have another (phone) meeting coming up at 3:30 Boston time (1 hour after this one) so if we haven't finished by then, I'll have leave early. 
+Tried to move it but that was just not possible. 
+Cheers, 
+Marjolein 
+&gt; Normal time and place  phone +1.617.252.7000 
+&gt; 2:30pm Boston time, 8:30pm France/Netherlands/Germany, 11:30am US West Coast... 
+&gt; Joint meeting with ERT group. 
+&gt; Agenda topics: 
+&gt; + W3C plenary meeting (we may as well spend 10 minutes on this together since time is important for it). 
+&gt; + Moving AERT work to AU group 
+&gt;  what does it mean for each group, how do we track it, resources for editing it? 
+&gt; Please send regrets to the email lists. 
+&gt; cheers 
+&gt; Charles 
+&gt; 
+&gt; Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136 
+&gt; W3C Web Accessibility Initiative 
+&gt; http://www.w3.org/WAI 
+&gt; Location: Icubed, 110 Victoria Street, Carlton VIC 3053, Australia 
+&gt; September  November 2000: 
+&gt; W3C INRIA, 2004 Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, 
+&gt; France
+Hi all, 
+Sorry about the delay, but this is the Techniques draft that I said I would do at the facetoface. 
+It is not done but you will get the idea. 
+Language specific things have generally been removed (to be put in the separate docs). 
+Cheers, 
+Jan
+Hi all, 
+Sorry I forgot to attach the file. 
+Cheers, 
+Jan 
+text/html attachment: Techniques_for_Authoring_Tool_Accessibility_Guidelines_1_01.htm
+Jan, 
+thanks for this 
+ it's a good piece of work. 
+How about we have the following categories: 
++ Things you need to do to meet the checkpoint (these can be fairly general) 
++ Techniques to do this (which should say how much of it they do) 
++ Things which are good to do although they go beyond the requirements of the checkpoint. 
++ References 
+These probably need to be sorted (where applicable) by tool type and priority. 
+For example to meet checkpoint 1.1 in a levelA tool, all that needs to be done is to provide source editing (and meet checkpoint 1.2 Preserve all accessibiltiy information, which can be done by not messing up the source). 
+But for a WYSIWYG tool this will not conform to 5.1 and 5.2, so the tool cannot get to doubleA. 
+A source editing tool can use this technique to any level. 
+Cheers 
+Charles 
+&gt; Hi all, 
+&gt; Sorry I forgot to attach the file. 
+&gt; Cheers, 
+&gt; Jan 
+Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136 
+W3C Web Accessibility Initiative http://www.w3.org/WAI 
+Location: Icubed, 110 Victoria Street, Carlton VIC 3053, Australia 
+September  November 2000: 
+W3C INRIA, 2004 Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France
+I agree. 
+I'd really like to work on emphasizing crossover situations in which doing one thing contributes to meeting several guidelines. 
+In the end this could be pulled out into a separate list of techniques that need to be implemented as opposed to checkpoints that need to be met. 
+ Jan 
+&gt; How about we have the following categories: 
+&gt; + Things you need to do to meet the checkpoint (these can be fairly general) 
+&gt; + Techniques to do this (which should say how much of it they do) 
+&gt; + Things which are good to do although they go beyond the requirements of the checkpoint. 
+&gt; + References 
+&gt; These probably need to be sorted (where applicable) by tool type and priority. 
+&gt; For example to meet checkpoint 1.1 in a levelA tool, all that needs to be done is to provide source editing (and meet checkpoint 1.2 Preserve all accessibiltiy information, which can be done by not messing up the source). 
+&gt; But for a WYSIWYG tool this will not conform to 5.1 and 5.2, so the tool cannot get to doubleA. 
+&gt; A source editing tool can use this technique to any level. 
+&gt; Cheers 
+&gt; Charles 
+&gt;&gt; Hi all, 
+&gt;&gt; Sorry I forgot to attach the file. 
+&gt;&gt; Cheers, 
+&gt;&gt; Jan 
+&gt;&gt;  
+&gt; Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136 
+&gt; W3C Web Accessibility Initiative http://www.w3.org/WAI 
+&gt; Location: Icubed, 110 Victoria Street, Carlton VIC 3053, Australia 
+&gt; September  November 2000: 
+&gt; W3C INRIA, 2004 Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France

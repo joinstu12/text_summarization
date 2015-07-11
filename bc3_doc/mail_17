@@ -1,0 +1,76 @@
+Question: Does a requirement to use graphics "when appropriate"  something that may not be easily done by users with visual disabilities  mean that blind people are not going to be "good" web designers?  
+Especially if we are going to expect them to be skilled in graphical user interface design and understand how to use images to communicate with people with cognitive disabilities?  
+If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively?  
+Just thinking out loud 
+ don't mind me.  
+Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.kynn.com/  
+Director of Accessibility, edapta http://www.edapta.com/  
+Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/  
+AWARE Center Director http://www.awarecenter.org/
+Some would, some wouldn't. 
+Same as sighted people. 
+For example, some of my blind friends are much more visually capable than I am, and some aren't. 
+An analgous question might be to ask whether a blind person is going to be able to adequately describe an image  currently a P1 requirement in a number of situations.  
+cheers  
+Charles  
+> Question: Does a requirement to use graphics "when appropriate"  something that may not be easily done by users with visual disabilities  mean that blind people are not going to be "good" web designers?  
+> Especially if we are going to expect them to be skilled in graphical user interface design and understand how to use images to communicate with people with cognitive disabilities?  
+> If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively?  
+> Just thinking out loud 
+>  don't mind me.  
+Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136  
+W3C Web Accessibility Initiative http://www.w3.org/WAI  
+Location: Icubed, 110 Victoria Street, Carlton VIC 3053  
+Postal: GPO Box 2476V, Melbourne 3001, Australia
+> Some would, some wouldn't. 
+> Same as sighted people. 
+> For example, some of my blind friends are much more visually capable than I am, and some aren't. 
+> An analgous question might be to ask whether a blind person is going to be able to adequately describe an image  currently a P1 requirement in a number of situations.  
+It's not the same, because a blind person can simply choose to not use an image if they feel they can't reasonably describe it...under the current guidelines. 
+(This changes when images become a requirement for accessibility.)  
+You do bring up a good point, however, that many people who can see are also not "visually capable" and may not be able to provide graphics easily. 
+I'm not sure if I can provide decent graphics for my sites 
+ and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics...  
+Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.kynn.com/  
+Director of Accessibility, edapta http://www.edapta.com/  
+Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/  
+AWARE Center Director http://www.awarecenter.org/  
+Next of Kynn: a quasiregular web log http://www.kynn.com/next/
+> and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics...  
+If all web authors felt like this about groups they are not prepared to cater to, its no wonder we need WAI.  
+jay@peepo.com  
+special needs teacher  
+web accessibility consultant
+> If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively?  
+There are lots of cases where a blind designer could use graphics as effectively, or actually more effectively, than a sighted person. 
+These are cases where the graphics are selected or generated in a rule based or standardized way. 
+For example, there are packages that generate flow charts from a textual description of a process. 
+These insure a sensible flow chart... 
+at least a chart that "parses" correctly. 
+On the other hand, I've seen too many flow chart style diagrams by sighted people where I have trouble understanding what conventions if any they're using.
+I'll take a rule based design by a blind indivdiual any day.  
+Other examples are graphs generated from data, schematic diagrams generated from pspice lists, and icons selected from a standardized set.  
+Also, page layout and color selection can be made according to rules and standards.  
+Now, what about more creatively artistic uses of design, uses that can't be reduced to mathematical or verbal rules? 
+Well, first of all that goes beyond our guidelines: 
+we're just looking at usability and I think rulebased graphics should handle that. 
+Second of all, I think there are certainly some blind individuals who can produce better art than some sighted individuals (better than me for example), certainly among people who have some vision and early visual experience. 
+As for art by people born blind... I'm not familiar with that area but I woudn't be surprised there's some remarkable use of shape and form.  
+Leonard R. Kasday, Ph.D.  
+Institute on Disabilities/UAP, and  
+Department of Electrical Engineering  
+Temple University  
+423 Ritter Annex, Philadelphia, PA 19122  
+kasday@acm.org  
+http://astro.temple.edu/~kasday  
+(215) 2042247 (voice)  
+(800) 7507428 (TTY)
+>> and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics...  
+> If all web authors felt like this about groups they are not prepared to cater to, its no wonder we need WAI.  
+Jonathan, do you really mean to be insulting to me? 
+We may be having a comprehension problem, but if you're going to react in a way that seems to question my "loyalty to cause"  despite being willing to take the time needed to work through this issue, as my repeated email messages haven proven that I'm willing to do  then you're likely to turn away even MORE people who could be your strongest allies.  
+Perhaps this is just a communication error 
+ your "style" of writing is vastly different from mine, and I certainly see how confusion could result.  
+Kynn Bartlett &lt;kynn@operamail.com&gt;  
+http://www.kynn.com/  
+My Browser Is Faster Than Yours

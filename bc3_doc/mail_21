@@ -1,0 +1,74 @@
+Quick question. 
+In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh.  
+Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)?  
+Thanks for any information.  
+Doyle  
+Doyle Burnett  
+Education and Training Specialist  
+Multiple Disabilities Program  
+Special Education Service Agency  
+dburnett@sesa.org  
+Www.sesa.org  
+
+Doyle,  
+The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows.  
+Loretta  
+> Quick question. 
+> In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh.  
+> Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)?  
+> Thanks for any information.  
+> Doyle  
+> Doyle Burnett  
+> Education and Training Specialist  
+> Multiple Disabilities Program  
+> Special Education Service Agency  
+> dburnett@sesa.org  
+> Www.sesa.org  
+> 
+A clarification: 
+it is available in both Acrobat 6.0 Professional and Acrobat 6.0 Standard, for the Mac and Windows.  
+> Doyle,  
+> The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows.  
+> Loretta  
+>> Quick question. 
+>> In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh.  
+>> Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)?  
+>> Thanks for any information.  
+>> Doyle  
+>> Doyle Burnett  
+>> Education and Training Specialist  
+>> Multiple Disabilities Program  
+>> Special Education Service Agency  
+>> dburnett@sesa.org  
+>> Www.sesa.org  
+>> 
+Hello Loretta/Doyle,  
+I am just not sure what the Make Accessible feature really does. 
+I am a JAWS user and a PDF file is as usable or unusable as it was before I run the Make Accessible feature on it. 
+I'll be glad if you can enlighten me on this. 
+Sailesh  
+> Doyle,  
+> The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows.  
+> Loretta  
+>> Quick question. 
+>> In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh.  
+>> Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)?  
+>> Thanks for any information.  
+>> Doyle  
+>> Doyle Burnett  
+>> Education and Training Specialist  
+>> Multiple Disabilities Program  
+>> Special Education Service Agency  
+>> dburnett@sesa.org  
+>> Www.sesa.org  
+>> 
+Sailesh,  
+Make Accessible is a command that attempts to analyze an untagged PDF file and infer logical structure from the marks on the page. 
+This would be used by an author who is trying to repair accessibility problems in an existing PDF file. 
+The best analogy is that it is doing OCR on the logical strucure. 
+Like OCR technology, it is imperfect, and the results should be reviewed and corrected, if necessary, by the author.  
+In Acrobat 5, this command was only available on Windows. 
+In Acrobat 6, it is available for both Mac and Windows.  
+When the Adobe Reader 6.0 is presenting an untagged PDF file to assistive technology, it automatically runs MakeAccessible internally to infer logical structure. 
+This can make loading an untagged PDF considerably slower than loading a tagged PDF, but makes it possible, for example, to read tables even in an untagged PDF.  
+Loretta

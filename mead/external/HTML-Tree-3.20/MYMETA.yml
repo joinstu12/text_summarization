@@ -1,0 +1,19 @@
+---
+abstract: unknown
+author:
+  - unknown
+build_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 0
+generated_by: 'ExtUtils::MakeMaker version 6.30, CPAN::Meta::Converter version 2.120921'
+license: unknown
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: HTML-Tree
+requires:
+  HTML::Parser: 2.19
+  HTML::Tagset: 3.02
+version: 3.20
+x_installdirs: site
+x_version_from: lib/HTML/Tree.pm

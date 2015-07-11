@@ -1,0 +1,18 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:648: checking host system type
+configure:669: checking build system type
+configure:689: checking for ranlib
+configure:719: checking for gcc
+configure:832: checking whether the C compiler (gcc  ) works
+configure:848: gcc -o conftest    conftest.c  1>&5
+configure:874: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:879: checking whether we are using GNU C
+configure:888: gcc -E conftest.c
+configure:907: checking whether gcc accepts -g
+configure:950: checking for ld used by GCC
+configure:1012: checking if the linker (/usr/bin/ld) is GNU ld
+GNU ld (GNU Binutils for Ubuntu) 2.24
+configure:1028: checking for BSD-compatible nm
+configure:1064: checking whether ln -s works

@@ -1,0 +1,109 @@
+I am not sure this will hold but 
+As a general rule.... 
+I think we should try to design guidelines that do not forbid anything  but 
+rather tell people how to do things so that they will be accessible. 
+When the next version comes out next week  we should look through it to see 
+how it looks in this regard. 
+Gregg 
+Gregg C Vanderheiden Ph.D. 
+Professor  Human Factors 
+Depts of Ind. and Biomed. Engr.  U of Wis. 
+Director  Trace R &amp;amp; D Center 
+Gv@trace.wisc.edu, http://trace.wisc.edu/ 
+FAX 608/2628848 
+For a list of our listserves send &quot;lists&quot; to listproc@trace.wisc.edu
+At 06:38 PM 3/24/2001 , Gregg Vanderheiden wrote: 
+&amp;gt; I am not sure this will hold but 
+&amp;gt; As a general rule.... 
+&amp;gt; I think we should try to design guidelines that do not forbid anything  but 
+&amp;gt; rather tell people how to do things so that they will be accessible. 
+I agree with this approach. Consistent with this approach, I feel, 
+is a methodology of &quot;guiding&quot; which says &quot;well, you can do it, but 
+to do it right you have to do (x), (y), and (z), and that will still 
+mean you're losing out on (a), (b), and (c), but if you REALLY REALLY 
+WANT TO, hey, it's your choice.&quot; 
+This isn't forbidding anything  but it's making it clear that there 
+are definite problems with certain approaches, and if someone chooses 
+to follow that path, they at least will be aware of the consequences 
+of their actions. 
+Kynn 
+Kynn Bartlett &amp;lt;kynn@reef.com&amp;gt; 
+Technical Developer Liaison 
+Reef North America 
+Tel +1 9495677006 
+________________________________________ 
+ACCESSIBILITY IS DYNAMIC. TAKE CONTROL. 
+________________________________________ 
+http://www.reef.com
+I think even WCAG 1.0 can be regarded as consistent with this method of 
+specifying guidelines, in that the word &quot;avoid&quot; was deliberately chosen to 
+imply the existence of alternative, more accessible, means of achieving 
+the same objective. WCAG 2.0 should, however, make this point clearer, to 
+avoid (pun intended) giving the impression that there are prohibitions in 
+the guidelines that would limit the capacity of content creators to design 
+web sites that fulfill their respective purposes.
+Gregg, 
+You make an excellent point! 
+As soon as you &quot;forbid&quot; something, you find out that some disabled group 
+at an opposite end of some spectrum &quot;needs&quot; what you've forbidden ... we 
+need to explain the consequences, and let the author decide what is most 
+appropriate for his/her site. 
+Anne 
+At 08:38 PM 3/24/01 0600, Gregg Vanderheiden wrote: 
+&amp;gt; I am not sure this will hold but 
+&amp;gt; As a general rule.... 
+&amp;gt; I think we should try to design guidelines that do not forbid anything  but 
+&amp;gt; rather tell people how to do things so that they will be accessible. 
+&amp;gt; 
+&amp;gt; When the next version comes out next week  we should look through it to see 
+&amp;gt; how it looks in this regard. 
+&amp;gt; 
+&amp;gt; 
+&amp;gt; Gregg 
+&amp;gt; 
+&amp;gt;   
+&amp;gt; Gregg C Vanderheiden Ph.D. 
+&amp;gt; Professor  Human Factors 
+&amp;gt; Depts of Ind. and Biomed. Engr.  U of Wis. 
+&amp;gt; Director  Trace R &amp;amp; D Center 
+&amp;gt; Gv@trace.wisc.edu, http://trace.wisc.edu/ 
+&amp;gt; FAX 608/2628848 
+&amp;gt; For a list of our listserves send &quot;lists&quot; to listproc@trace.wisc.edu 
+&amp;gt; 
+&amp;gt; 
+&amp;gt; 
+&amp;gt; 
+Anne Pemberton 
+apembert@erols.com 
+http://www.erols.com/stevepem 
+http://www.geocities.com/apembert45
+At 8:08 PM 0500 3/26/01, Anne Pemberton wrote: 
+&amp;gt; Gregg, 
+&amp;gt; 
+&amp;gt; You make an excellent point! 
+&amp;gt; 
+&amp;gt; As soon as you &quot;forbid&quot; something, you find out that some 
+&amp;gt; disabled group 
+&amp;gt; at an opposite end of some spectrum &quot;needs&quot; what you've forbidden ... we 
+&amp;gt; need to explain the consequences, and let the author decide what is most 
+&amp;gt; appropriate for his/her site. 
+Excellent point  the body of knowledge for disability access 
+considerations, beyond those of blind people (which are generally 
+wellexplored these days), is pretty skimpy. We're still in the 
+exploration/discovery process of &quot;what works&quot;, and as we see more 
+solutions like Reef's  which allow you to build an interface for 
+ONE audience without fearing interference with OTHER audiences' 
+interfaces  we will encounter more and more solutions which will 
+&quot;work&quot; for some people and &quot;not work&quot; for others. 
+Forbidding them outright will cause a lot of problems, in the same 
+way that alternate interfaces stated &quot;as a last resort&quot; cause problems 
+when usable, accessible design is your &quot;first resort&quot;! 
+Absolutes should be avoided, always. 
+Kynn 
+Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; 
+http://www.kynn.com/
+At 08:32 PM 3/26/01 0800, Kynn Bartlett wrote: 
+&amp;gt; Absolutes should be avoided, always. 
+Absolutely! 
+Love. 
+ACCESSIBILITY IS RIGHT  NOT PRIVILEGE

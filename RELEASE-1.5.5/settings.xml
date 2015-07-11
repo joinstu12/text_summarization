@@ -1,0 +1,107 @@
+<ROUGE_EVAL version="1.55">
+
+<EVAL ID="TASK_0">
+<MODEL-ROOT> RELEASE-1.5.5/rouge/task0_model</MODEL-ROOT>
+<PEER-ROOT> RELEASE-1.5.5/rouge/task0_peer </PEER-ROOT>
+<INPUT-FORMAT TYPE="SEE">  </INPUT-FORMAT>
+<MODELS>
+<M ID="1">human1_doc0.html</M>
+<M ID="2">human2_doc0.html</M>
+<M ID="3">human3_doc0.html</M>
+</MODELS>
+<PEERS>
+<P ID="1">system1_doc0.html</P>
+</PEERS>
+</EVAL>
+<EVAL ID="TASK_1">
+<MODEL-ROOT> RELEASE-1.5.5/rouge/task1_model</MODEL-ROOT>
+<PEER-ROOT> RELEASE-1.5.5/rouge/task1_peer </PEER-ROOT>
+<INPUT-FORMAT TYPE="SEE">  </INPUT-FORMAT>
+<MODELS>
+<M ID="1">human1_doc1.html</M>
+<M ID="2">human2_doc1.html</M>
+<M ID="3">human3_doc1.html</M>
+</MODELS>
+<PEERS>
+<P ID="1">system1_doc1.html</P>
+</PEERS>
+</EVAL>
+<EVAL ID="TASK_2">
+<MODEL-ROOT> RELEASE-1.5.5/rouge/task2_model</MODEL-ROOT>
+<PEER-ROOT> RELEASE-1.5.5/rouge/task2_peer </PEER-ROOT>
+<INPUT-FORMAT TYPE="SEE">  </INPUT-FORMAT>
+<MODELS>
+<M ID="1">human1_doc2.html</M>
+<M ID="2">human2_doc2.html</M>
+<M ID="3">human3_doc2.html</M>
+</MODELS>
+<PEERS>
+<P ID="1">system1_doc2.html</P>
+</PEERS>
+</EVAL>
+<EVAL ID="TASK_3">
+<MODEL-ROOT> RELEASE-1.5.5/rouge/task3_model</MODEL-ROOT>
+<PEER-ROOT> RELEASE-1.5.5/rouge/task3_peer </PEER-ROOT>
+<INPUT-FORMAT TYPE="SEE">  </INPUT-FORMAT>
+<MODELS>
+<M ID="1">human1_doc3.html</M>
+<M ID="2">human2_doc3.html</M>
+<M ID="3">human3_doc3.html</M>
+</MODELS>
+<PEERS>
+<P ID="1">system1_doc3.html</P>
+</PEERS>
+</EVAL>
+<EVAL ID="TASK_4">
+<MODEL-ROOT> RELEASE-1.5.5/rouge/task4_model</MODEL-ROOT>
+<PEER-ROOT> RELEASE-1.5.5/rouge/task4_peer </PEER-ROOT>
+<INPUT-FORMAT TYPE="SEE">  </INPUT-FORMAT>
+<MODELS>
+<M ID="1">human1_doc4.html</M>
+<M ID="2">human2_doc4.html</M>
+<M ID="3">human3_doc4.html</M>
+</MODELS>
+<PEERS>
+<P ID="1">system1_doc4.html</P>
+</PEERS>
+</EVAL>
+<EVAL ID="TASK_5">
+<MODEL-ROOT> RELEASE-1.5.5/rouge/task5_model</MODEL-ROOT>
+<PEER-ROOT> RELEASE-1.5.5/rouge/task5_peer </PEER-ROOT>
+<INPUT-FORMAT TYPE="SEE">  </INPUT-FORMAT>
+<MODELS>
+<M ID="1">human1_doc5.html</M>
+<M ID="2">human2_doc5.html</M>
+<M ID="3">human3_doc5.html</M>
+</MODELS>
+<PEERS>
+<P ID="1">system1_doc5.html</P>
+</PEERS>
+</EVAL>
+<EVAL ID="TASK_6">
+<MODEL-ROOT> RELEASE-1.5.5/rouge/task6_model</MODEL-ROOT>
+<PEER-ROOT> RELEASE-1.5.5/rouge/task6_peer </PEER-ROOT>
+<INPUT-FORMAT TYPE="SEE">  </INPUT-FORMAT>
+<MODELS>
+<M ID="1">human1_doc6.html</M>
+<M ID="2">human2_doc6.html</M>
+<M ID="3">human3_doc6.html</M>
+</MODELS>
+<PEERS>
+<P ID="1">system1_doc6.html</P>
+</PEERS>
+</EVAL>
+<EVAL ID="TASK_7">
+<MODEL-ROOT> RELEASE-1.5.5/rouge/task7_model</MODEL-ROOT>
+<PEER-ROOT> RELEASE-1.5.5/rouge/task7_peer </PEER-ROOT>
+<INPUT-FORMAT TYPE="SEE">  </INPUT-FORMAT>
+<MODELS>
+<M ID="1">human1_doc7.html</M>
+<M ID="2">human2_doc7.html</M>
+<M ID="3">human3_doc7.html</M>
+</MODELS>
+<PEERS>
+<P ID="1">system1_doc7.html</P>
+</PEERS>
+</EVAL>
+</ROUGE_EVAL>

@@ -1,0 +1,85 @@
+I have noticed that when using a screen reading browser such as IBM homepage reader when words are joined together for example &quot;homepage&quot; the words &quot;home&quot; and &quot;page&quot; are not recognised, as a consequence the joined words become incomprehensible to the screenreading software. 
+I haven't found any references to this within the gudielines. 
+have i missed them?
+14.1 Use the clearest and simplest language appropriate... [priority 1] 
+Of course at some point speech technology needs to learn how to deal with common but new terms in a language. 
+Homepage is one that I would expect to work  especially in a product whose name includes the term. 
+But Text to Speech is an inexact science  even people who are experts cannot agree to pronounce words the same way. 
+Just ask a welltrained and very literate American chemist what the eleme whose symbol is Al is called  they tell you about a thing called &quot;aluminum&quot;. 
+But they are in fact referring to what any Australian voice recogniser would expect to hear as al(y)amin(i)yum. 
+The problem is funnier (after people get over the inconvenience of learning about it) when a screen reader uses a finnish or swedish synthesiser but provides its cues and prompts in english... 
+cheers 
+Chaalls 
+&gt; I have noticed that when using a screen reading browser such as IBM homepage reader when words are joined together for example &quot;homepage&quot; the words &quot;home&quot; and &quot;page&quot; are not recognised, as a consequence the joined words become incomprehensible to the screenreading software. 
+&gt; I haven't found any references to this within the gudielines. 
+&gt; have i missed them? 
+Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 
+W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +33 4 92 38 78 22 
+Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia 
+(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)
+&gt; I have noticed that when using a screen reading browser such as IBM homepage reader when words are joined together for example &quot;homepage&quot; the words &quot;home&quot; and &quot;page&quot; are not recognised, as a consequence the joined words become incomprehensible to the screenreading software. 
+&gt; I haven't found any references to this within the gudielines. 
+&gt; have i missed them? 
+No, it's not obvious at all. 
+Yes, when in doubt, hypenate compounds if you have any doubt as to how long they have been in the language. 
+Some screen readers will successfully divide camelCase agglutinations. 
+I don't know how widespread this is, though. 
+You would have to have the memory of an elephant to pull up the following flames. 
+But they do touch on texttospeech, along with lay persons, people operating in a second language, and others with reading difficulty as at risk on account of unusual words including neologisms: 
+http://lists.w3.org/Archives/Public/w3cwaierig/2000Dec/0079.html 
+http://lists.w3.org/Archives/Public/w3cwaigl/2001JulSep/0542.html 
+The point is to have and apply a reasonably small word list and handle those things that fall outside this list as special. 
+My spellchecker in Eudora 4 bounces 'homepage' and suggests &quot;home page&quot; as a possible correction. 
+Need we say more? 
+It could be as simple as &lt;acronym title=&quot;home page&quot;&gt; homepage &lt;/acronym&gt; although purists will yell at me. 
+Al 
+Al
+There is probably a good argument for raising the issue of proper names. 
+In my brief experience it seems that common dictionary words are read well enough. 
+However it seems that people and place names are not. 
+These are the very words that are of greatest interest. 
+it would also be great to see a decent ua that offered alternative readings (as per spell checker example), a memorise function, and possibly the opportunity to share the choice with a public database. 
+Perhaps somone knows of this? 
+thanks
+It would appear that this is readily available using Speech synthesis markup language and XSLT (or XSLT 2 perhaps)... 
+or someone can make smarter and smarter speech synthessisers. 
+If Audio CSS allowed something equivalent to SSML's sayas propoerty, we would be closer perhaps. 
+Cheers 
+Chaals 
+&gt; There is probably a good argument for raising the issue of proper names. 
+&gt; In my brief experience it seems that common dictionary words are read well enough. 
+&gt; However it seems that people and place names are not. 
+&gt; These are the very words that are of greatest interest. 
+&gt; it would also be great to see a decent ua that offered alternative readings (as per spell checker example), a memorise function, and possibly the opportunity to share the choice with a public database. 
+&gt; Perhaps somone knows of this? 
+&gt; thanks 
+Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 
+W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +33 4 92 38 78 22 
+Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia 
+(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)
+&gt; It would appear that this is readily available using Speech synthesis markup language and XSLT (or XSLT 2 perhaps)... 
+&gt; or someone can make smarter and smarter speech synthessisers. 
+&gt; If Audio CSS allowed something equivalent to SSML's sayas propoerty, we would be closer perhaps. 
+Sorry, you are missing the main brunt of Jonathan's remarks. 
+Yes, SSML, modularized, provides the WCAG piece. 
+But who/how accesses the dictionary? 
+One of the creative things he raises is uploading your pronunciation repairs to the community. 
+What Annotea would like to do. 
+But personal data is in LDAP today, not RDF. 
+So we need LDAP bindings for the SSML. 
+To make the web whole. 
+Al 
+&gt; Cheers 
+&gt; Chaals 
+&gt;&gt; There is probably a good argument for raising the issue of proper names. 
+&gt;&gt; In my brief experience it seems that common dictionary words are read well enough. 
+&gt;&gt; However it seems that people and place names are not. 
+&gt;&gt; These are the very words that are of greatest interest. 
+&gt;&gt; it would also be great to see a decent ua that offered alternative readings (as per spell checker example), a memorise function, and possibly the opportunity to share the choice with a public database. 
+&gt;&gt; Perhaps somone knows of this? 
+&gt;&gt; thanks 
+&gt;  
+&gt; Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 
+&gt; W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +33 4 92 38 78 22 
+&gt; Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia 
+&gt; (or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)

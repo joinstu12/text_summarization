@@ -1,0 +1,54 @@
+I have built a form which has a submit button on it. 
+If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' popup is presented to the user, giving more information. 
+This appears to be in breach of checkpoint 10.1 
+http://www.w3.org/TR/WCAG10/waipageauth.html#techavoidpopups 
+Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a popup dialog being displayed' before the submit button, in the same color as the background? 
+Thus (I believe) making the text available to screen reader users but not to sighted users? 
+Regards 
+Graham Oliver 
+__________________________________________________ 
+Do You Yahoo!? 
+Get email at your own domain with Yahoo! Mail. 
+http://personal.mail.yahoo.com/
+&gt; I have built a form which has a submit button on it. 
+&gt; If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' popup is presented to the user, giving more information. 
+&gt; This appears to be in breach of checkpoint 10.1 
+&gt; http://www.w3.org/TR/WCAG10/waipageauth.html#techavoidpopups 
+&gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a popup dialog being displayed' before the submit button, in the same color as the background? 
+&gt; Thus (I believe) making the text available to screen reader users but not to sighted users? 
+This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. 
+It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. 
+One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply.
+It also depends on how the screen reader gets its content  
+readers that are too smart about colours (a useful feature) will realise that the text is invisible and skip it. 
+(given the way this is normally used to stuff keywords in pages, it is not a bad practice). 
+Charles McCN 
+&gt;&gt; I have built a form which has a submit button on it. 
+&gt;&gt; If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' popup is presented to the user, giving more information. 
+&gt;&gt; This appears to be in breach of checkpoint 10.1 
+&gt;&gt; http://www.w3.org/TR/WCAG10/waipageauth.html#techavoidpopups 
+&gt;&gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a popup dialog being displayed' before the submit button, in the same color as the background? 
+&gt;&gt; Thus (I believe) making the text available to screen reader users but not to sighted users? 
+&gt; This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. 
+&gt; It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. 
+&gt; One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply. 
+Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 
+W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +1 617 258 5999 
+Location: Icubed, 110 Victoria Street, Carlton VIC 3053, Australia 
+(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)
+Hi All, 
+You could try using a spacer image and then put your message in the alt text. 
+I don't know how that will behave in the screenreader but it may help get around the problem with the search engine. 
+Anthony 
+&gt;&gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a popup dialog being displayed' before the submit button, in the same color as the background? 
+&gt;&gt; Thus (I believe) making the text available to screen reader users but not to sighted users? 
+&gt; This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. 
+&gt; It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. 
+&gt; One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply.
+&gt; Hi All, 
+&gt; You could try using a spacer image and then put your message in the alt text. 
+&gt; I don't know how that will behave in the screenreader but it may help get around the problem with the search engine. 
+Perhaps not, since putting spiderbait in alt attributes is just as old a searchengine as hiding stuff using colour. 
+On the other hand there isn't really anyway I can think of for spiders to know whether they are being baited unless there is a lot of repetition of words other than &quot;a&quot;, &quot;the&quot;, etc. 
+Spiderbaiting in itself is quite a problem for users of text, whether sighted textonly users or users of enabling technologies. 
+I've quite often come across sites with little for a textonly user to read but the keywords they want to be listed over repeated 50 times.

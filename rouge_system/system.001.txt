@@ -1,0 +1,17 @@
+I'd use Netscape 3.x and 4.x, a version of MS Internet Explorer (as you can't have two versions on the same machine to my knowledge), a text browser such as lynx., PwWebSpeak for the voice browser and maybe Opera if you have extra time and money. 
+I'm seeking your opinion about what tools we should test with. 
+I need to help assemble and populate a small computer lab to examine web usability issues. 
+Ok, who has some good reference URLs for WebTV?
+Use of tools such as bobby and HTML validators is also essential. 
+This is a very large ballpark and I need to narrow the options we're going to explore.  
+I'd like to hear about your opinions and preferences about tools if you care to share them. 
+For browsers I would look at Lynx, a screen reader (eg winvision, or jaws) and a proper audio browser like pwWebSpeak. 
+We have to start someplace and picking a specific set of tools seems to be a reasonable place. 
+It might be sensible to have disabled users actually do the testing.  
+I'm replying publicly because this is an important issue which is facing a lot of people, not just you. 
+The first thing I would do is validate the HTML and check with Bobby, but read the results and think about it rather than simply believing what you're told.  
+> I need to help assemble and populate a small computer lab to examine web usability issues. 
+I gather that there's no such thing as a perfect list but I need to put one together anyway.  
+>> I would show you exactly where to go, but having connectivity problems with the work server.  
+I would skip IE/Netscape, since designers worth 2c can tell you already how things work there by reading the code. 
+> For browsers I would look at Lynx, a screen reader (eg winvision, or jaws) and a proper audio browser like pwWebSpeak. 

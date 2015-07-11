@@ -1,0 +1,20 @@
+I need to help assemble and populate a small computer lab to examine web usability issues. 
+This is a very large ballpark and I need to narrow the options we're going to explore.  
+I'm seeking your opinion about what tools we should test with. 
+I'd like to hear about your opinions and preferences about tools if you care to share them. 
+Please respond privately so I don't get shot for starting another browser war.  
+I'd use Netscape 3.x and 4.x, a version of MS Internet Explorer (as you can't have two versions on the same machine to my knowledge), a text browser such as lynx., PwWebSpeak for the voice browser and maybe Opera if you have extra time and money. 
+Also to be considered is the use of a general screen reader such as Jaws For Windows. 
+Use of tools such as bobby and HTML validators is also essential. 
+It might be sensible to have disabled users actually do the testing.  
+I would skip IE/Netscape, since designers worth 2c can tell you already how things work there by reading the code. 
+The first thing I would do is validate the HTML and check with Bobby, but read the results and think about it rather than simply believing what you're told.  
+For browsers I would look at Lynx, a screen reader (eg winvision, or jaws) and a proper audio browser like pwWebSpeak. 
+ this will generally show up the problems much faster.  
+It is a great efficiency if you can solve the problems by design rather than by repair.  
+FYI, "EEI Communications" was offline this morning and is now operational.  
+>> As a reference, please see www.eeicom.com/dcwebmasters/pwd and click on the link for PWD presentation. 
+By the way, if you weren't aware, there's an emulator for WebTV that runs on Windows 95/* and Macintosh that you can download from developer.webtv.net. 
+I recommend it to my accessibility class students, since the more browsers you expose someone to, the quicker they realize that the web is designed to support ANY valid user agent, not just "the big two".  
+I'm replying publicly because this is an important issue which is facing a lot of people, not just you. 
+If you can, use WebTV and a Macintosh version of things 

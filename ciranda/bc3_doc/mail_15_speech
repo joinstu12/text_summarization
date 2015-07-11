@@ -1,0 +1,567 @@
+Req = true  , Confidence= 0.776690243790889
+Dlv = true  , Confidence= 0.9514264096924311
+Cmt = false  , Confidence= 0.9473135585163569
+Prop = false  , Confidence= 0.9873579981789392
+Meet = false  , Confidence= 0.9939833183092632
+Ddata = false  , Confidence= 0.9931329662695226
+*
+Req = false  , Confidence= 0.9190535596087493
+Dlv = false  , Confidence= 0.8945188095896445
+Cmt = false  , Confidence= 0.9154596369547052
+Prop = false  , Confidence= 0.9972302224440736
+Meet = false  , Confidence= 0.5259000067811154
+Ddata = false  , Confidence= 0.9934738108742783
+*
+Req = false  , Confidence= 0.9889249855635663
+Dlv = true  , Confidence= 0.7337680550511475
+Cmt = false  , Confidence= 0.9329796375269697
+Prop = false  , Confidence= 0.9924195560671351
+Meet = false  , Confidence= 0.9741258436485455
+Ddata = false  , Confidence= 0.9997173516162782
+*
+Req = false  , Confidence= 0.9167544250844055
+Dlv = false  , Confidence= 0.47249642913555623
+Cmt = false  , Confidence= 0.8988726761588773
+Prop = false  , Confidence= 0.9893602971340169
+Meet = false  , Confidence= 0.6605891048794826
+Ddata = false  , Confidence= 0.9141978618621612
+*
+Req = false  , Confidence= 0.7824864166259098
+Dlv = false  , Confidence= 0.8662939633946378
+Cmt = false  , Confidence= 0.9808522261456448
+Prop = false  , Confidence= 0.972994947801505
+Meet = false  , Confidence= 0.7895773694653718
+Ddata = false  , Confidence= 0.9759043229543668
+*
+Req = false  , Confidence= 0.9310804970323043
+Dlv = true  , Confidence= 0.6849422192330397
+Cmt = false  , Confidence= 0.9315737966410886
+Prop = false  , Confidence= 0.9900188424882593
+Meet = false  , Confidence= 0.9523009536734507
+Ddata = false  , Confidence= 0.8241209288440656
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.5249599584990138
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.8692714601728293
+Dlv = true  , Confidence= 0.7717071752921426
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9870899357464402
+Meet = false  , Confidence= 0.917193148002247
+Ddata = false  , Confidence= 0.9136038031482928
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.7496762648325273
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9870899357464402
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.9724091032797181
+Dlv = true  , Confidence= 0.5138843102331021
+Cmt = false  , Confidence= 0.9315737966410886
+Prop = false  , Confidence= 0.9900188424882593
+Meet = false  , Confidence= 0.9448726401164114
+Ddata = false  , Confidence= 0.9067274305221763
+*
+Req = false  , Confidence= 0.7901912886685893
+Dlv = true  , Confidence= 0.9969353214287648
+Cmt = false  , Confidence= 0.999114090004876
+Prop = false  , Confidence= 0.9996797300722763
+Meet = false  , Confidence= 0.9822989557820935
+Ddata = false  , Confidence= 0.9530267798938534
+*
+Req = false  , Confidence= 0.9692008349549853
+Dlv = true  , Confidence= 0.9153713082245047
+Cmt = false  , Confidence= 0.9785313505038478
+Prop = false  , Confidence= 0.9971216827476546
+Meet = false  , Confidence= 0.9815689605748803
+Ddata = false  , Confidence= 0.8859697432713822
+*
+Req = false  , Confidence= 0.6900000566602691
+Dlv = true  , Confidence= 0.7072634407713617
+Cmt = false  , Confidence= 0.9315737966410886
+Prop = false  , Confidence= 0.9914679846688583
+Meet = false  , Confidence= 0.9413389258430619
+Ddata = false  , Confidence= 0.9010871269230802
+*
+Req = false  , Confidence= 0.7701803691937796
+Dlv = true  , Confidence= 0.7027130959797878
+Cmt = false  , Confidence= 0.9727525076688516
+Prop = false  , Confidence= 0.9942863272486772
+Meet = false  , Confidence= 0.959408357783571
+Ddata = false  , Confidence= 0.9957284013975112
+*
+Req = true  , Confidence= 0.9830977828475621
+Dlv = true  , Confidence= 0.9143989837831125
+Cmt = false  , Confidence= 0.9903719569800917
+Prop = false  , Confidence= 0.9809301396669751
+Meet = false  , Confidence= 0.9694826040340687
+Ddata = false  , Confidence= 0.884784737935693
+*
+Req = false  , Confidence= 0.9722838764860599
+Dlv = true  , Confidence= 0.8403574960038862
+Cmt = false  , Confidence= 0.9384702221205183
+Prop = false  , Confidence= 0.9956964966497265
+Meet = false  , Confidence= 0.9013952960178511
+Ddata = false  , Confidence= 0.9654580520936551
+*
+Req = false  , Confidence= 0.7914525640679279
+Dlv = true  , Confidence= 0.6671511638905311
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9870899357464402
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.8546441053646147
+Dlv = false  , Confidence= 0.5397153835508841
+Cmt = false  , Confidence= 0.9591026844914933
+Prop = false  , Confidence= 0.9920680796506005
+Meet = false  , Confidence= 0.9521243313306951
+Ddata = false  , Confidence= 0.7699882349460787
+*
+Req = false  , Confidence= 0.8857533425687005
+Dlv = false  , Confidence= 0.5343196439245171
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9870899357464402
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.8944470221902419
+Dlv = true  , Confidence= 0.5723522528602233
+Cmt = false  , Confidence= 0.9516014980823673
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.9326443703435161
+Ddata = false  , Confidence= 0.8242166730171725
+*
+Req = true  , Confidence= 0.5778626507787221
+Dlv = true  , Confidence= 0.601994454910679
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9866422199289024
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8991030382182593
+*
+Req = false  , Confidence= 0.7884921125550439
+Dlv = false  , Confidence= 0.9131508386479433
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9910267875122332
+Meet = false  , Confidence= 0.932003652363657
+Ddata = true  , Confidence= 0.8850277494426977
+*
+Req = false  , Confidence= 0.7192887458368978
+Dlv = false  , Confidence= 0.7140350533990992
+Cmt = false  , Confidence= 0.9808522261456448
+Prop = false  , Confidence= 0.9774282738420208
+Meet = false  , Confidence= 0.7895773694653718
+Ddata = false  , Confidence= 0.9759043229543668
+*
+Req = false  , Confidence= 0.9058622032454159
+Dlv = true  , Confidence= 0.8494247352092839
+Cmt = false  , Confidence= 0.9315737966410886
+Prop = false  , Confidence= 0.9917621212232646
+Meet = false  , Confidence= 0.9523009536734507
+Ddata = false  , Confidence= 0.8241209288440656
+*
+Req = true  , Confidence= 0.9133341130740683
+Dlv = true  , Confidence= 0.9603466925814846
+Cmt = false  , Confidence= 0.964390618753779
+Prop = false  , Confidence= 0.993854497951934
+Meet = false  , Confidence= 0.9922958230890593
+Ddata = false  , Confidence= 0.9046165639522369
+*
+Req = false  , Confidence= 0.7957290838623858
+Dlv = true  , Confidence= 0.5223010396699573
+Cmt = false  , Confidence= 0.8816817810545627
+Prop = false  , Confidence= 0.9919198630973655
+Meet = false  , Confidence= 0.9619147960588693
+Ddata = false  , Confidence= 0.7725910414367901
+*
+Req = false  , Confidence= 0.966811075299532
+Dlv = false  , Confidence= 0.5113283049892725
+Cmt = false  , Confidence= 0.975217596144614
+Prop = false  , Confidence= 0.9939556070915667
+Meet = false  , Confidence= 0.9639793096022311
+Ddata = false  , Confidence= 0.9088444262168863
+*
+Req = false  , Confidence= 0.9523477476693786
+Dlv = true  , Confidence= 0.8618649144008637
+Cmt = false  , Confidence= 0.9884823874428584
+Prop = false  , Confidence= 0.9868934312524612
+Meet = false  , Confidence= 0.9904295842233365
+Ddata = false  , Confidence= 0.9849988013952855
+*
+Req = false  , Confidence= 0.721969506960775
+Dlv = true  , Confidence= 0.5022595002033978
+Cmt = false  , Confidence= 0.9809869025871133
+Prop = false  , Confidence= 0.9922784564846044
+Meet = false  , Confidence= 0.9947281941136349
+Ddata = false  , Confidence= 0.9678047026011158
+*
+Req = false  , Confidence= 0.9853347519201753
+Dlv = false  , Confidence= 0.6835829499541461
+Cmt = false  , Confidence= 0.9315737966410886
+Prop = false  , Confidence= 0.9901029183863543
+Meet = false  , Confidence= 0.9452259890690183
+Ddata = false  , Confidence= 0.9067274305221763
+*
+Req = false  , Confidence= 0.9957767471621248
+Dlv = true  , Confidence= 0.9616852671952515
+Cmt = false  , Confidence= 0.9257489966287001
+Prop = false  , Confidence= 0.9983549158730433
+Meet = false  , Confidence= 0.9836189935962972
+Ddata = false  , Confidence= 0.918450460364879
+*
+Req = false  , Confidence= 0.9360358968075775
+Dlv = true  , Confidence= 0.9471939995825726
+Cmt = false  , Confidence= 0.8964913126658001
+Prop = false  , Confidence= 0.9536046620694938
+Meet = false  , Confidence= 0.8772164176318854
+Ddata = false  , Confidence= 0.9485791516798666
+*
+Req = false  , Confidence= 0.869682155449093
+Dlv = false  , Confidence= 0.4803604964303356
+Cmt = false  , Confidence= 0.9591026844914933
+Prop = false  , Confidence= 0.9983117226694332
+Meet = false  , Confidence= 0.9280246268824717
+Ddata = true  , Confidence= 0.659073370396672
+*
+Req = false  , Confidence= 0.9683702161015038
+Dlv = true  , Confidence= 0.5555996145645659
+Cmt = false  , Confidence= 0.965174958489014
+Prop = false  , Confidence= 0.9941548058432131
+Meet = false  , Confidence= 0.9499752928170894
+Ddata = false  , Confidence= 0.8381559839217073
+*
+Req = false  , Confidence= 0.9173838994754624
+Dlv = true  , Confidence= 0.6780133200677582
+Cmt = false  , Confidence= 0.9508123259222591
+Prop = false  , Confidence= 0.9896716371675203
+Meet = false  , Confidence= 0.9839838061971358
+Ddata = false  , Confidence= 0.922432331523207
+*
+Req = false  , Confidence= 0.8880141977508863
+Dlv = true  , Confidence= 0.6345906535911947
+Cmt = false  , Confidence= 0.975812220740134
+Prop = false  , Confidence= 0.9915082165244752
+Meet = false  , Confidence= 0.9844949597723793
+Ddata = false  , Confidence= 0.9507652413700123
+*
+Req = false  , Confidence= 0.9380146820925888
+Dlv = false  , Confidence= 0.7118894063618323
+Cmt = false  , Confidence= 0.9826390233988613
+Prop = false  , Confidence= 0.9982888273039175
+Meet = false  , Confidence= 0.979457138237571
+Ddata = false  , Confidence= 0.9656293717101491
+*
+Req = false  , Confidence= 0.9876564007115239
+Dlv = false  , Confidence= 0.5675767765115391
+Cmt = false  , Confidence= 0.9915344626331198
+Prop = false  , Confidence= 0.992346179113559
+Meet = false  , Confidence= 0.9968285836346353
+Ddata = false  , Confidence= 0.9925849121110781
+*
+Req = false  , Confidence= 0.9574609768706195
+Dlv = true  , Confidence= 0.6427036802014715
+Cmt = false  , Confidence= 0.9249867043540962
+Prop = false  , Confidence= 0.9840244787017888
+Meet = false  , Confidence= 0.9943322825389651
+Ddata = false  , Confidence= 0.8429963128678357
+*
+Req = true  , Confidence= 0.5204764027030226
+Dlv = true  , Confidence= 0.8506785201381686
+Cmt = false  , Confidence= 0.9315737966410886
+Prop = false  , Confidence= 0.98801618613311
+Meet = false  , Confidence= 0.9874706096994722
+Ddata = false  , Confidence= 0.8831740543916481
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.5249599584990138
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.9351918293640908
+Dlv = true  , Confidence= 0.5249599584990138
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9890901754798708
+Meet = false  , Confidence= 0.932433589001038
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.9724091032797181
+Dlv = true  , Confidence= 0.5138843102331021
+Cmt = false  , Confidence= 0.9315737966410886
+Prop = false  , Confidence= 0.9900188424882593
+Meet = false  , Confidence= 0.9448726401164114
+Ddata = false  , Confidence= 0.9067274305221763
+*
+Req = false  , Confidence= 0.9614108706578501
+Dlv = true  , Confidence= 0.8364354468892807
+Cmt = false  , Confidence= 0.9682105132953853
+Prop = false  , Confidence= 0.9938118842577454
+Meet = false  , Confidence= 0.9977464811866584
+Ddata = false  , Confidence= 0.8655800629408801
+*
+Req = false  , Confidence= 0.9433033077448105
+Dlv = false  , Confidence= 0.6928124017007233
+Cmt = false  , Confidence= 0.8511183613513518
+Prop = false  , Confidence= 0.9909236139348458
+Meet = false  , Confidence= 0.9911217828460314
+Ddata = false  , Confidence= 0.9100703374058934
+*
+Req = false  , Confidence= 0.9315464005957563
+Dlv = true  , Confidence= 0.8662749797396304
+Cmt = false  , Confidence= 0.9435515599938649
+Prop = false  , Confidence= 0.98316833624592
+Meet = false  , Confidence= 0.8596957810335468
+Ddata = false  , Confidence= 0.9972285588081828
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.5249599584990138
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.683890172430163
+Dlv = true  , Confidence= 0.5893190897227332
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8706438211510964
+*
+Req = false  , Confidence= 0.8077108701436801
+Dlv = true  , Confidence= 0.5510166185949676
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.989234937260394
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.6154824022000959
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.7397183022356768
+*
+Req = false  , Confidence= 0.9269733425368103
+Dlv = true  , Confidence= 0.5959345790004578
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9910267875122332
+Meet = false  , Confidence= 0.895234570986115
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.5633852063750878
+Dlv = true  , Confidence= 0.9387270487034657
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.989234937260394
+Meet = false  , Confidence= 0.9608081659191182
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.9402697674347227
+Dlv = false  , Confidence= 0.8586288638405413
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.994811525525681
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.9375011009508493
+*
+Req = false  , Confidence= 0.9422462163030633
+Dlv = true  , Confidence= 0.6609079004701454
+Cmt = false  , Confidence= 0.9595979694741522
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.9481559201987407
+Ddata = true  , Confidence= 0.7005057756843415
+*
+Req = false  , Confidence= 0.8374534511959669
+Dlv = true  , Confidence= 0.7292526974139065
+Cmt = false  , Confidence= 0.9574199236225595
+Prop = false  , Confidence= 0.9938369923380301
+Meet = false  , Confidence= 0.937633605675674
+Ddata = false  , Confidence= 0.8430800696442925
+*
+Req = true  , Confidence= 0.5027644516689802
+Dlv = true  , Confidence= 0.6437338781296269
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.993442584946254
+Meet = false  , Confidence= 0.927708138048218
+Ddata = false  , Confidence= 0.9218629596843377
+*
+Req = false  , Confidence= 0.8780824930631361
+Dlv = true  , Confidence= 0.8339023650816086
+Cmt = false  , Confidence= 0.9384702221205183
+Prop = false  , Confidence= 0.9871118458510881
+Meet = false  , Confidence= 0.9738168620360865
+Ddata = false  , Confidence= 0.8389748309525003
+*
+Req = false  , Confidence= 0.9773876892097948
+Dlv = false  , Confidence= 0.5118470271128055
+Cmt = false  , Confidence= 0.9279691365470448
+Prop = false  , Confidence= 0.9961609511176481
+Meet = false  , Confidence= 0.9475574361492763
+Ddata = false  , Confidence= 0.9604364376954199
+*
+Req = false  , Confidence= 0.937493264497165
+Dlv = true  , Confidence= 0.7989231100853168
+Cmt = false  , Confidence= 0.9315737966410886
+Prop = false  , Confidence= 0.9907143157841242
+Meet = false  , Confidence= 0.9185639642834116
+Ddata = false  , Confidence= 0.8746591193029184
+*
+Req = false  , Confidence= 0.8941428660061447
+Dlv = true  , Confidence= 0.6488269094312725
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9910267875122332
+Meet = false  , Confidence= 0.9212835414270492
+Ddata = true  , Confidence= 0.9066175310298333
+*
+Req = false  , Confidence= 0.9523838591448214
+Dlv = true  , Confidence= 0.8287175552943251
+Cmt = false  , Confidence= 0.9613897037436266
+Prop = false  , Confidence= 0.9945379371356425
+Meet = false  , Confidence= 0.9798302352777801
+Ddata = true  , Confidence= 0.9035516765531187
+*
+Req = false  , Confidence= 0.9229530931809999
+Dlv = true  , Confidence= 0.7688118781900681
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9965476505794905
+Meet = false  , Confidence= 0.9106907875997335
+Ddata = false  , Confidence= 0.7291272145136769
+*
+Req = false  , Confidence= 0.8033321550797531
+Dlv = true  , Confidence= 0.6416284559573583
+Cmt = false  , Confidence= 0.9499305178181892
+Prop = false  , Confidence= 0.9898287148605265
+Meet = false  , Confidence= 0.9379857684498533
+Ddata = false  , Confidence= 0.6763727316029184
+*
+Req = false  , Confidence= 0.8809248334568984
+Dlv = true  , Confidence= 0.7198395340005117
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9883201428733767
+Meet = false  , Confidence= 0.966851628268828
+Ddata = false  , Confidence= 0.6179741353869114
+*
+Req = false  , Confidence= 0.8317635690256673
+Dlv = true  , Confidence= 0.8634210120066934
+Cmt = false  , Confidence= 0.9662289838760088
+Prop = false  , Confidence= 0.9893542922417208
+Meet = false  , Confidence= 0.9934592889477042
+Ddata = false  , Confidence= 0.8369279133690828
+*
+Req = false  , Confidence= 0.9046439151848388
+Dlv = true  , Confidence= 0.994098082946494
+Cmt = false  , Confidence= 0.9909342933328548
+Prop = false  , Confidence= 0.9930411963528926
+Meet = false  , Confidence= 0.9860967538176564
+Ddata = false  , Confidence= 0.8715235888726228
+*
+Req = false  , Confidence= 0.9591875944710431
+Dlv = true  , Confidence= 0.9746302086917218
+Cmt = false  , Confidence= 0.9541781378124935
+Prop = false  , Confidence= 0.9928283728176057
+Meet = false  , Confidence= 0.9890523212216155
+Ddata = false  , Confidence= 0.9903609604655872
+*
+Req = false  , Confidence= 0.8869164563324761
+Dlv = true  , Confidence= 0.9999679925745408
+Cmt = false  , Confidence= 0.9412020480668414
+Prop = false  , Confidence= 0.9980496259334659
+Meet = true  , Confidence= 0.7373837536257128
+Ddata = false  , Confidence= 0.9951668437784038
+*
+Req = false  , Confidence= 0.9761754358515496
+Dlv = true  , Confidence= 0.9862108323018777
+Cmt = false  , Confidence= 0.9781961026078543
+Prop = false  , Confidence= 0.994556896197051
+Meet = false  , Confidence= 0.9738050641728724
+Ddata = false  , Confidence= 0.948525271219415
+*
+Req = false  , Confidence= 0.751891838116379
+Dlv = false  , Confidence= 0.9202483804856627
+Cmt = false  , Confidence= 0.7499491707253916
+Prop = false  , Confidence= 0.9946965124279729
+Meet = false  , Confidence= 0.9604084116208232
+Ddata = false  , Confidence= 0.33058646023199156
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.5249599584990138
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9808977106085544
+Meet = false  , Confidence= 0.9262445383605609
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.5249599584990138
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.8191094441384
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9870899357464402
+Meet = false  , Confidence= 0.863387702427877
+Ddata = false  , Confidence= 0.8001299556712187
+*
+Req = false  , Confidence= 0.941387085620377
+Dlv = true  , Confidence= 0.8543713133172991
+Cmt = false  , Confidence= 0.9875515781668299
+Prop = false  , Confidence= 0.9947590566912404
+Meet = false  , Confidence= 0.9995709703033251
+Ddata = false  , Confidence= 0.5353716173356808
+*
+Req = false  , Confidence= 0.9617593856731717
+Dlv = false  , Confidence= 0.6418975828587687
+Cmt = false  , Confidence= 0.9529006714255083
+Prop = false  , Confidence= 0.9961228116656726
+Meet = false  , Confidence= 0.9756105812887982
+Ddata = false  , Confidence= 0.8784942592564596
+*
+Req = false  , Confidence= 0.9789915888556167
+Dlv = true  , Confidence= 0.9949946858406301
+Cmt = false  , Confidence= 0.9803462229379938
+Prop = false  , Confidence= 0.9927437103878642
+Meet = false  , Confidence= 0.9928171789017688
+Ddata = false  , Confidence= 0.8314357737540121
+*
+Req = false  , Confidence= 0.9642042129817958
+Dlv = false  , Confidence= 0.6500786254330255
+Cmt = false  , Confidence= 0.9623264833781269
+Prop = false  , Confidence= 0.9970767820158654
+Meet = false  , Confidence= 0.979272129913227
+Ddata = false  , Confidence= 0.9231965728906181
+*
+Req = false  , Confidence= 0.9029800176709848
+Dlv = true  , Confidence= 0.9943560905871401
+Cmt = false  , Confidence= 0.989376782480789
+Prop = false  , Confidence= 0.992981909551413
+Meet = false  , Confidence= 0.9990643607992018
+Ddata = false  , Confidence= 0.9176750331471105
+*
+Req = false  , Confidence= 0.6905820171163022
+Dlv = true  , Confidence= 0.6825962153598621
+Cmt = false  , Confidence= 0.9638183234762938
+Prop = false  , Confidence= 0.9888917297030007
+Meet = false  , Confidence= 0.9952694733141092
+Ddata = false  , Confidence= 0.7944773684878292
+*
+Req = false  , Confidence= 0.8640178745088739
+Dlv = true  , Confidence= 0.8378041449750799
+Cmt = false  , Confidence= 0.791286213065769
+Prop = false  , Confidence= 0.9792545486327865
+Meet = false  , Confidence= 0.9785533656365506
+Ddata = false  , Confidence= 0.9888133180660751
+*
+Req = false  , Confidence= 0.8833053120533085
+Dlv = true  , Confidence= 0.5249599584990138
+Cmt = false  , Confidence= 0.9201274982254235
+Prop = false  , Confidence= 0.9845242165669835
+Meet = false  , Confidence= 0.932003652363657
+Ddata = false  , Confidence= 0.8001299556712187
+*

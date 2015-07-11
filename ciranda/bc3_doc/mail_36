@@ -1,0 +1,57 @@
+Hi 
+I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. 
+If it is the case I will include both in the style switcher I am making. 
+Best regards, 
+Jesper
+Jesper, 
+It is my experience that many visually impaired users who still retain some eyesight prefer light text on dark backgrounds, especially when on a monitor screen. 
+This is due in part to the fact that the &quot;glare&quot; from a white monitor screen is hard on the eyes, and can often wash out thin black lines (like text). 
+I personally know of at least 2 partially sighted users who have set up their machines with dark backgrounds and light text, even to the point of one setting their web browser to override developers colours. 
+JF 
+&gt; Hi 
+&gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. 
+&gt; If it is the case I will include both in the style switcher I am making. 
+&gt; Best regards, 
+&gt; Jesper
+&gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. 
+only way I will read the internet, PINE, LYNX default to white on black 
+Bob 
+&quot;They that can give up essential liberty to obtain a little temporary safety deserve Neither liberty nor safety&quot;, Benjamin Franklin 
+ASCII Ribbon Campaign accessBob 
+NO HTML/PDF/RTF in email accessys@smartnospam.net 
+NO MSWord docs in email Access Systems, engineers 
+NO attachments in email, *LINUX powered* access is a civil right 
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# 
+THIS message and any attachments are CONFIDENTIAL and may be privileged. 
+They are intended ONLY for the individual or entity named
+&gt; Hi 
+&gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. 
+&gt; If it is the case I will include both in the style switcher I am making. 
+&gt; Best regards, 
+&gt; Jesper 
+I am aware that some people also swop between different settings, ie they may choose to work with black text on a white background in the morning, then as their eyes tire they might change their preferences to white text on a black background. 
+Also, when implementing the style switcher it is important not to prevent people from using their own style sheet or browser preferences. 
+I have seen some switchers that do this and if the choices offered do not suit someone's needs it can be quite limiting. 
+Cheers, 
+Sandra. 
+... 
+ebility Pty Ltd  Inclusive IT 
+tel: (02) 9810 2216 
+email: S.Vassallo@ebility.com 
+ebility web: http://www.ebility.com 
+Inclusive IT: http://www.inclusiveit.com.au/
+Hi Jesper 
+&gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. 
+&gt; If it is the case I will include both in the style switcher I am making. 
+Will you be including any other colour schemes? 
+Black on gold and black on certain shades of blue can improve readability for some dyslexics.* 
+Cheers 
+M 
+*If anyone has done any study on this, specifically with the RGB triplets used in CSS, would they like to share? 
+Matthew Smith 
+IT Consultant  KBC, South Australia 
+KBC Web Site http://www.kbc.net.au 
+PGP Public Key http://gpg.mss.cx
+&gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. 
+My understanding is that the original reason for using white (or green or orange) on black was that flicker is more obvious on large areas of solid white. 
+Viewing GUIs on CRTs, I get the impression that some rasterisers on some fonts don't handle white on black well (you need to handle them differently because a white pixel is larger than a black pixel, to ensure that adjacent white pixels overlap, when using a write white device, like a typical CRT.

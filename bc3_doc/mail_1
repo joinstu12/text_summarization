@@ -1,0 +1,85 @@
+hi all,  
+As outlined at the face to face meet, I've been working on methods of getting coordinate information about the locations of Semantic web researchers and groups. 
+I wrote to the wwwrdfinterest list asking for data:  
+http://lists.w3.org/Archives/Public/wwwrdfinterest/2003Apr/0252.html  
+so we'll have to see how that pans out. 
+Please do add yourselves if you've not already there (I just did a few as examples).  
+There are some SVG demos, developed from ones by Jim Ley, displaying the information we have already, which I constructed as examples:  
+http://www.w3.org/2001/sw/Europe/200303/geo/intro.html#demos  
+So, now we have to decide on the map which we will use to overlay the dots on. 
+We want something that will highlight Europe, especially since on a world map, Europe is too small to really show up on provide the level of detail we require. 
+At ILRT, Caroline Meek, Dan and I have had discussions with a designer, and he has pointed us at some examples, and we've narrowed it down to two that we rather like:  
+http://www.cadmium.co.uk/thumbs/brand%20x/maps%20and%20globes/t_bxp_c31027.jpg.jpg  
+which has the advantage of showing Europe as part of the world (we could get rid of the arm of the globe that is showing, and alter the colours);  
+and http://www.cadmium.co.uk/thumbs/ds/maps%20and%20globes/t_11407324.jpg.jpg  
+which would be technically simpler to do, but shows Europe in isolation (I do like the colour scheme though).  
+Do people have a preference for one style over the other?  
+Could you let us know today if possible? 
+We need to specify the map as soon as possible in order to get postcards printed for www2003.  
+thanks,  
+Libby  
+p.s. Here's a nice similar idea:  
+http://www.asemantics.net/showcase/zoom.html
+> Do people have a preference for one style over the other?  
+> Could you let us know today if possible? 
+> We need to specify the map as soon as possible in order to get postcards printed for www2003.  
+Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. 
+Is there any reason it has to be geographically accurate? 
+Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. 
+Of course, you may not consider that a helpful suggestion given the short timescale :)  
+Cheers,  
+Ian
+* Dickinson, Ian J &lt;Ian.Dickinson@hp.com&gt; [20030425 12:12+0100]  
+> From: Libby Miller [mailto:Libby.Miller@bristol.ac.uk]  
+>> Do people have a preference for one style over the other?  
+>> Could you let us know today if possible? 
+>> We need to specify the map as soon as possible in order to get postcards printed for www2003.  
+> Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. 
+> Is there any reason it has to be geographically accurate? 
+> Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. 
+> Of course, you may not consider that a helpful suggestion given the short timescale :)  
+One advantage of being geographically accurate is it simplifies our lives when we try to plot SW researchers, groups, events etc on the map...  
+I prefer the map to the globe, fwiw.  
+Dan
+yeah, sorry it's such a rush. 
+It took a long time to write the document explaining how to write the RDF. 
+At this stage we really need examples to show the designer though 
+ I'll pass your comments along to him, see if he has anything like that.  
+What don't you like about them in particular?  
+thanks for the feedback  
+Libby  
+On Fri, 25 Apr 2003, Dickinson, Ian J wrote:  
+> From: Libby Miller [mailto:Libby.Miller@bristol.ac.uk]  
+>> Do people have a preference for one style over the other?  
+>> Could you let us know today if possible? 
+>> We need to specify the map as soon as possible in order to get postcards printed for www2003.  
+> Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. 
+> Is there any reason it has to be geographically accurate? 
+> Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. 
+> Of course, you may not consider that a helpful suggestion given the short timescale :)  
+> Cheers,  
+> Ian
+Hi Libby,  
+> What don't you like about them in particular?  
+The globe is too visually busy for a background (imho), and if you decrease the opacity I think you'll lose too much of the important bits (like where the UK is :). 
+The map would be OK as a backdrop for the FOAF map if it was semiopaque, but (a) it misses out the rest of the world, as you said yourself, and (b) there's a big blue empty space on the left :). 
+The atlantic is just too big** if you keep it to scale, hence my suggestion to use more of a schematic approach. 
+I guess you need the cartographical equivalent of an ellipsis, whatever that might be!  
+Cheers,  
+Ian  
+** qv "[the judge] ruled that the guilty party was 'life itself' for failing  
+to be either beautiful or true" [hhgtg]
+thanks Ian. 
+I broadly agree with you. 
+For (b) though, that might work in our favour, as we can put a logo and/or a slogan there.  
+Libby  
+On Fri, 25 Apr 2003, Dickinson, Ian J wrote:  
+> Hi Libby,  
+>> What don't you like about them in particular?  
+> The globe is too visually busy for a background (imho), and if you decrease the opacity I think you'll lose too much of the important bits (like where the UK is :). 
+> The map would be OK as a backdrop for the FOAF map if it was semiopaque, but (a) it misses out the rest of the world, as you said yourself, and (b) there's a big blue empty space on the left :). 
+> The atlantic is just too big** if you keep it to scale, hence my suggestion to use more of a schematic approach. 
+> I guess you need the cartographical equivalent of an ellipsis, whatever that might be!  
+> Cheers,  
+> Ian  
+> ** qv "[the judge] ruled that the guilty party was 'life itself' for failing to be either beautiful or true" [hhgtg]
