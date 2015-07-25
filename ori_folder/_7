@@ -1,0 +1,29 @@
+Hi, 
+So far, about 24 screen reader users have sent in votes. 
+One person didn't like the screen reader version because of the long links. 
+What he didn't realize was that the links were the same for both versions. 
+He just hadn't run into them in the standard version before trying the version for screen reader users. 
+Two other users forgot to make a choice. 
+The remaining 21 users preferred the version formatted for screen readers over the standard version. 
+A couple of people commented that they would want some more text on the screen reader version. 
+has anyone heard of www.esight.org? 
+I looked at their site is it accessible? 
+I don t know much about cold fusion sites so I can t tell. 
+All I get are the &quot;notify&quot; and &quot;beta tester&quot; links, which lead to forms to fill in the needed information. 
+(These work as they should.) 
+No word on what the site will actually do. 
+Sounds like a lot of Ehype to me. 
+My quesiton is how would a screen reader handle that code....
+look at the source. 
+&gt; All I get are the &quot;notify&quot; and &quot;beta tester&quot; links, which lead to forms to fill in the needed information. 
+&gt; No word on what the site will actually do. 
+I don't get any unusual code (other than the CFM declaration at the top). 
+Otherwise it looks pretty normal, &amp;amp; reads just fine with JFW3.5. 
+A few small problems such as ALT text &quot;pages\cleardot1.gif&quot; (approx.), but nothing really unusual. 
+Unless there is some CFMgenerated applet thing happening that I'm missing completely. 
+Patrick 
+&gt; My quesiton is how would a screen reader handle that code....
+&gt;&gt;&gt; I looked at their site is it accessible? 
+&gt;&gt;&gt; I don t know much about cold fusion sites so I can t tell. 
+http://www.dcp.ucla.edu/staff/patrick.htm 
+at the UCLA Office of Academic Computing 

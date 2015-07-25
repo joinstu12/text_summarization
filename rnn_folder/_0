@@ -1,0 +1,31 @@
+I've heard that if you create a page with alt tags and bring it into word to edit it and then export it back to html that the alts are stripped? 
+can anyone confirm or deny this?  
+&gt; I've heard that if you create a page with alt tags and bring it into word to edit it and then export it back to html that the alts are stripped? 
+&gt; can anyone confirm or deny this? 
+ Start with an HTML document, created by any means. 
+ The HTML doc is opened in Word and some text on the page is changed or added. 
+I daresay that most people don't know HTML and are not going to learn it so that they can make an accessible page through a text editor. 
+This is especially true if the only editing required of them is small such as changing the grammar on a web page or correcting spelling of a word. 
+This is exactly why the authoring tools aspect of the WAI is so important.  
+> PS: *Why* would you use Word to edit an HTML document?!  
+For example, you can quickly move entire lines or paragraphs without using the clipboard;  
+and undo and redo 100 levels. 
+All of the above can be done using keyboard and pointandclick techniques. 
+Unfortunately, many of the really powerful Word commands are extremely poorly documented.  
+Why use Word? 
+I think that is exactly what needs to be tested. 
+Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.idyllmtn.com/~kynn/  
+Enroll now for web accessibility with HTML 4.0! http://www.hwg.org/classes/  
+&gt;&gt; I've heard that if you create a page with alt tags and bring it into word to edit it and then export it back to html that the alts are stripped? 
+&gt;&gt; Thanks! 
+I could *not* recreate the problem described when I tested this on my own system using MS Word 97 for Windows. 
+I opened the HTML file in Word97, added one word to the text of the Heading, then saved the file back to HTML with a new name. 
+The ALT= text was not affected. 
+MS Word 97, at least, seems to recognize HTML and preserve it. 
+Obviously, other versions of Word may behave differently. 
+I suspect that *any* word processor would strip the ALT= text if you first save the document in its *native* format, then try to save it back to HTML. 
+Chris Kreussling
+&amp;lt;disclaimer&amp;gt; The views expressed are those of the author and do not necessarily reflect the position of the Federal Reserve Bank of New York or the Federal Reserve System. &amp;lt;/disclaimer&amp;gt; 
+On the other hand, there was a lost of longdesc, link, and others new HTML4 table attributes; 
+in fact, in looks like unknown attributes are pruned out, which shouldn't happen (unknown elements are kept, albeit mess up with, see below)  
+The DOCTYPE and the STYLE I had in this test file were moved from the top and the head to the body, which is really bad.  

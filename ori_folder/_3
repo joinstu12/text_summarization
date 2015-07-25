@@ -1,0 +1,33 @@
+I am not sure this will hold but 
+As a general rule.... 
+I think we should try to design guidelines that do not forbid anything  but 
+rather tell people how to do things so that they will be accessible. 
+When the next version comes out next week  we should look through it to see 
+At 06:38 PM 3/24/2001 , Gregg Vanderheiden wrote: 
+&amp;gt; I am not sure this will hold but 
+&amp;gt; I think we should try to design guidelines that do not forbid anything  but 
+&amp;gt; rather tell people how to do things so that they will be accessible. 
+I agree with this approach. Consistent with this approach, I feel, 
+is a methodology of &quot;guiding&quot; which says &quot;well, you can do it, but 
+to do it right you have to do (x), (y), and (z), and that will still 
+mean you're losing out on (a), (b), and (c), but if you REALLY REALLY 
+This isn't forbidding anything  but it's making it clear that there 
+to follow that path, they at least will be aware of the consequences 
+I think even WCAG 1.0 can be regarded as consistent with this method of 
+specifying guidelines, in that the word &quot;avoid&quot; was deliberately chosen to 
+the same objective. WCAG 2.0 should, however, make this point clearer, to 
+You make an excellent point! 
+at an opposite end of some spectrum &quot;needs&quot; what you've forbidden ... we 
+need to explain the consequences, and let the author decide what is most 
+appropriate for his/her site. 
+At 08:38 PM 3/24/01 0600, Gregg Vanderheiden wrote: 
+At 8:08 PM 0500 3/26/01, Anne Pemberton wrote: 
+&amp;gt; You make an excellent point! 
+&amp;gt; at an opposite end of some spectrum &quot;needs&quot; what you've forbidden ... we 
+wellexplored these days), is pretty skimpy. We're still in the 
+exploration/discovery process of &quot;what works&quot;, and as we see more 
+solutions like Reef's  which allow you to build an interface for 
+ONE audience without fearing interference with OTHER audiences' 
+Forbidding them outright will cause a lot of problems, in the same 
+way that alternate interfaces stated &quot;as a last resort&quot; cause problems 
+At 08:32 PM 3/26/01 0800, Kynn Bartlett wrote: 
